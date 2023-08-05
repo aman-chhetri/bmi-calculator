@@ -36,7 +36,7 @@ pip install streamlit
 4. Run the Streamlit app:
 
 ```
-streamlit run app.py
+streamlit run bmi_calc.py
 ```
 
 5. Access the web app by opening the provided URL in your web browser.
